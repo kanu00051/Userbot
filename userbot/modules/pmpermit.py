@@ -17,10 +17,11 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("`Hello! This is a bot.\n\n`"
+UNAPPROVED_MSG = ("`Hello! This is a Crazy Captain bot.\n\n`"
                   "`My master hasn't approved you to PM yet,`"
                   "`Please wait for him to look in, he mostly approves PMs.\n\n`"
-                  "`Also don't spam the PMs, you'll get blocked!`")
+                  "`Also don't spam the PMs, you'll get blocked!`"
+                 "`Please Wait For Sometime , When Crazy Captain will Be Online , He will Approve You`")
 # =================================================================
 
 
